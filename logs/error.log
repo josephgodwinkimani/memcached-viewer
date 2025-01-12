@@ -1,0 +1,1 @@
+2024-12-20 13:35:58,451 - ERROR - Connection Error: Could not connect to Memcached server at localhost:11211. Error: [WinError 10061] No connection could be made because the target machine actively refused it
